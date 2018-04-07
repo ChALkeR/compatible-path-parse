@@ -1,0 +1,39 @@
+{
+  "name": "compatible-path-parse",
+  "version": "1.0.0",
+  "description": "path.parse() from Node.js without unnecessary semver bumps",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "path",
+    "parse",
+    "polyfill",
+    "ponyfill",
+    "shim",
+    "browser",
+    "node",
+    "semver"
+  ],
+  "author": {
+    "name": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChALkeR/compatible-path-parse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChALkeR/compatible-path-parse/issues"
+  },
+  "dependencies": {
+    "packaged-path-parse": "~9.11.1"
+  },
+  "files": [
+    "LICENSE",
+    ".babelrc",
+    "index.js",
+    "index.js"
+  ]
+}
