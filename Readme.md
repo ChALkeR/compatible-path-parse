@@ -1,5 +1,7 @@
 # path.parse() from Node.js without unnecessary semver bumps
 
+[![npm](https://img.shields.io/npm/v/compatible-path-parse.svg)](https://www.npmjs.com/package/compatible-path-parse)
+
 See [packaged-path-parse](https://github.com/ChALkeR/packaged-path-parse) for
 documentation, this module just is a re-export of that without unnecessary
 major- and minor- version bumps.
