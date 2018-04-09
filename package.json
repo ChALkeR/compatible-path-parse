@@ -32,8 +32,6 @@
   },
   "files": [
     "LICENSE",
-    ".babelrc",
-    "index.js",
     "index.js"
   ]
 }
