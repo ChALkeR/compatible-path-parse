@@ -28,7 +28,7 @@
     "url": "https://github.com/ChALkeR/compatible-path-parse/issues"
   },
   "dependencies": {
-    "packaged-path-parse": "~9.11.1"
+    "packaged-path-parse": "~8.11.1"
   },
   "files": [
     "LICENSE",
