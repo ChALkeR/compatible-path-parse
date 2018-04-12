@@ -1,6 +1,6 @@
 {
   "name": "compatible-path-parse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "path.parse() from Node.js without unnecessary semver bumps",
   "main": "index.js",
   "scripts": {},
